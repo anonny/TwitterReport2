@@ -1,5 +1,5 @@
 # TwitterReport2
-A mass report for Twitter. 
+An automation tool to mass report Twitter accounts.
 
 This is an edit of TwitterReport (found here: https://github.com/anonymous247742/TwitterReport, not mine) that is compatible with the new Twitter update. 
 

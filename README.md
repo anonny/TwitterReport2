@@ -1,6 +1,8 @@
 # TwitterReport2
 A mass report for Twitter. 
+
 This is an edit of TwitterReport (found here: https://github.com/anonymous247742/TwitterReport, not mine) that is compatible with the new Twitter update. 
+
 This reports 'This user is abusive > Harrassment > Someone else is (being affected) > Engaging in targeted harassment'
 
 ## REQUIREMENTS
